@@ -14,6 +14,14 @@ Thanks to [ADK Documentation](https://google.github.io/adk-docs/)
 
 Examples : 
 
+clone the repository
+cd adk_best_agent_developement_kit
+python -m venv .venv
+source .venv/bin/activate (if you are using mac/linux)
+.venv\Scripts\activate.bat (Windows CMD:)
+.venv\Scripts\Activate.ps1 (Windows PowerShell:)
+pip install -r requirements.txt.
+
 weather based tool with agent
 
     RUN with terminal
